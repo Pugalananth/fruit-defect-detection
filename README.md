@@ -260,4 +260,5 @@ The included MobileNetV2 model was trained on 20,484 training images using WSL2 
 > 3. **Food Safety Advisory**:
 >    - This software is an agricultural computer vision evaluation tool. It **does not** certify food safety, microbial safety, or human edibility.
 #   f r u i t - d e f e c t - d e t e c t i o n  
+ #   f r u i t - d e f e c t - d e t e c t i o n  
  
